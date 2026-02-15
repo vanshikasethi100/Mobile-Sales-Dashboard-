@@ -12,3 +12,4 @@ Key Learnings & Impact:
 4) Designed interactive dashboards with slicers and visuals to enable data-driven decision-making for stakeholders
 
 Skills Gained: Data Visualization Data Cleaning. Microsoft Power BI Data Transformation
+Link to the Project - https://app.powerbi.com/groups/me/reports/7e225ccb-7b1f-4357-b407-e88d7fff9199/45d6f52433e4ac77ffb8?experience=power-bi
